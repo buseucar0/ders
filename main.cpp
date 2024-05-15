@@ -2,7 +2,7 @@
 
 int __stdcall main() 
 {
-	std::cout << "sa" << "\n";
+	std::cout << "ase" << "\n";
 	return 0;
 }
 
