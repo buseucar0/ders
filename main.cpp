@@ -1,8 +1,10 @@
 #include <iostream>
 
+#include "test.hpp"
+
 int __stdcall main() 
 {
-	std::cout << "ase" << "\n";
+	test();
 	return 0;
 }
 
